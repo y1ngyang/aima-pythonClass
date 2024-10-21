@@ -1,2 +1,2 @@
-networkx==2.2
+networkx==3.4.2
 jupyter
